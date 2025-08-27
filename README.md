@@ -51,7 +51,7 @@
 ---
 # 6)결과: 이계산 방식으로 식료품이 성장성과 안정성, 인기성이 제일 점수가 높아 선정했습니다
 <img width="825" height="156" alt="화면 캡처 2025-08-26 194623" src="https://github.com/user-attachments/assets/bf925bd6-f3d6-422b-976a-8e0043a51f47" />
-**[사진보시다시피 식료품이 제일 높았습니다]**
+>**[사진보시다시피 식료품이 제일 높았습니다]**
 
 # 식료품 설명및 소비자 소비심리,소비경향 
 <img width="828" height="691" alt="화면 캡처 2025-08-26 131755" src="https://github.com/user-attachments/assets/55fc66ec-ad24-44ed-8906-d65409e0915e" />
